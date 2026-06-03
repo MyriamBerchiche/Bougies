@@ -18,10 +18,10 @@ Les utilisateurs peuvent créer un compte, se connecter et ajouter des produits 
 
 Fonctionnalités:
 
-- Affichage des bougies avec leur prix.
-- Filtrage : Toutes / Parfumées / Non parfumées.
-- Inscription avec vérification (email valide, mot de passe 6 caractères minimum).
-- Connexion avec vérification des identifiants (compte test: candles@myriam.com / 123456).
-- Panier sauvegardé automatiquement.
-- Facture de la commande avec quantité et total.
-- Site adapté aux mobiles, tablettes et ordinateurs.
+° Affichage des bougies avec leur prix.
+° Filtrage : Toutes / Parfumées / Non parfumées.
+° Inscription avec vérification (email valide, mot de passe 6 caractères minimum).
+° Connexion avec vérification des identifiants (compte test: candles@myriam.com / 123456).
+° Panier sauvegardé automatiquement.
+° Facture de la commande avec quantité et total.
+° Site adapté aux mobiles, tablettes et ordinateurs.
